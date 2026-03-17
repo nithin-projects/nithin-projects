@@ -1,8 +1,5 @@
 # Hi, I'm Nithin V 👋
 
-
-![Visitor Count](https://komarev.com/ghpvc/?username=nithin-projects&color=blue)
-
 📍 India | 💡 Passionate about Computer Science | Curious About Software & Technology
 
 ## 🛠️ Skills
@@ -17,3 +14,5 @@ Python · MySQL · Git · GitHub
 [![GitHub](https://img.shields.io/badge/GitHub-nithin--projects-black?logo=github)](https://github.com/nithin-projects)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nithin-projects&show_icons=true&hide=stars&count_private=true)
+![Visitor Count](https://komarev.com/ghpvc/?username=nithin-projects&color=blue)
+
