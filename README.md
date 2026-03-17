@@ -1,16 +1,15 @@
-# Hi, I'm Nithin V
+# Hi, I'm Nithin V 👋
 
-1st year CSE student | 97% in Class 12 CS (CBSE)  
-Python · MySQL · Git · Currently learning Web Dev
+🎓 CSE Student | Open to Internships & Freelance
+📍 India | 💡 Passionate about Computer Science | Curious About Software & Technology
 
-## Skills
-Python · MySQL · Git · GitHub · HTML · CSS
+## 🛠️ Skills
+Python · MySQL · Git · GitHub 
 
-## What I'm building
-- Student grade management system (Python + MySQL)
-- Personal expense tracker (Python + MySQL)
+## 🚀 What I'm building
+- 📊 Student grade management system (Python + MySQL)
+- 💰 Personal expense tracker (Python + MySQL)
 
-## Connect
-LinkedIn: https://www.linkedin.com/in/nithin-vijayakumar/
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nithin-projects&show_icons=true)
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nithin%20V-blue?logo=linkedin)](https://www.linkedin.com/in/nithin-vijayakumar/)
+[![GitHub](https://img.shields.io/badge/GitHub-nithin--projects-black?logo=github)](https://github.com/nithin-projects)
